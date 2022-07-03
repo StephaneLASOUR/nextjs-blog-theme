@@ -22,6 +22,9 @@
   },
   "dependencies": {
     "@mapbox/rehype-prism": "^0.8.0",
+    "@plasmicapp/cli": "^0.1.183",
+    "@plasmicapp/host": "^1.0.68",
+    "@plasmicapp/react-web": "^0.2.100",
     "@tailwindcss/typography": "^0.5.0",
     "classnames": "^2.3.1",
     "gray-matter": "^4.0.2",
